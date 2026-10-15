@@ -1,3 +1,5 @@
+[![AI Security Score](https://ingeniousai-security-checks.netlify.app/badges/vibecode-scanner.svg)](https://ingeniousai-security-checks.netlify.app/ai-security-badge.html)
+
 # vibecode-scanner
 
 **"npm audit for AI-generated code."**
